@@ -7,7 +7,7 @@
 - [打开赛程日历页面](https://szleopards.github.io/Shenzhen-Leopards-Calendar/)
 - [下载 ICS 日历文件](https://szleopards.github.io/Shenzhen-Leopards-Calendar/shenzhen-2026-27.ics)
 
-日历使用 `Asia/Shanghai` 时区，每场比赛默认提前 30 分钟提醒。
+日历使用 `Asia/Beijing` 时区，每场比赛默认提前 30 分钟提醒。
 
 ## 订阅地址
 
